@@ -116,6 +116,9 @@ By installing the openHAB process as a service in Windows, you can:
 
     # openHAB installation dir (Adapt this first setting to your system)
     set.default.OPENHAB_HOME=C:\openHAB2
+    
+    # java installation dir (Adapt this first setting to your system)
+    set.default.JAVA_HOME=C:\Program Files\Java\jdk1.9.0_121
 
     # Wrapper Properties
     set.default.OPENHAB_CONF=%OPENHAB_HOME%\conf
